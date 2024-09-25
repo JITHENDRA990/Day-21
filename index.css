@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    background-color: red;
+}
+.boby{
+    background-color: black;
+}
+h2{
+    color:white;
+    background-color: black;
+}
+
+
+.cards{
+    display: flex;
+    gap: 15px;
+    padding: 200px 200px;
+    height: 20px;
+
+}
+.banner{
+    background-image: img url("https://tse4.mm.bing.net/th?id=OIP.gabnTIrb9_VUBujEuAZp1QHaEK&pid=Api&P=0&h=180");
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    height: 100px;
+}
